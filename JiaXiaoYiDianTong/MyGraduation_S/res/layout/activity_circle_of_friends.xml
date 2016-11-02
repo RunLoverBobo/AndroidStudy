@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+   
+    
+    <EditText 
+        android:id="@+id/et_activity_circle_of_talk"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:hint="说点什么吧"/>
+    
+    <Button 
+        android:id="@+id/btn_activity_circle_of_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginLeft="230dp"
+        android:textSize="16sp"
+        android:text="发表"/>
+    
+    <ListView
+        android:id="@+id/lv_activity_circle_of_friends"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp" />
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+#Tue Jan 17 20:38:09 CST 2017
+base.0=/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a41f4dc600fb245026d39c85815c9bbe2ceaa1e9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_86139e410039e6c782ae4a9124b24f8da96b2e09/classes.dex
+base.1=/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_86139e410039e6c782ae4a9124b24f8da96b2e09
+file.0=/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a41f4dc600fb245026d39c85815c9bbe2ceaa1e9/classes.dex

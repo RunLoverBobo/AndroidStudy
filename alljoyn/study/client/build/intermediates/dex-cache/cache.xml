@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df42fcea72309580a29e796bc6658f06b501c208">
+        <dex dex="/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_86139e410039e6c782ae4a9124b24f8da96b2e09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f35459043291465d54404698b072183cb36d633">
+        <dex dex="/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a41f4dc600fb245026d39c85815c9bbe2ceaa1e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/libs/alljoyn.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51d521911070f13212191de387faa67503f45cad">
+        <dex dex="/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/build/intermediates/transforms/dex/debug/folders/1000/2/alljoyn_04ec9dae3347e35ec9a153314a1ac7ffceea87b0/classes.dex" />
+    </item>
+
+</items>

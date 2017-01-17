@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/lionking/Android/AndroidStudy/alljoyn/study/service/app/src/main/jniLibs"><file name="armeabi/liballjoyn_java.so" path="/home/lionking/Android/AndroidStudy/alljoyn/study/service/app/src/main/jniLibs/armeabi/liballjoyn_java.so"/></source></dataSet><dataSet config="debug"><source path="/home/lionking/Android/AndroidStudy/alljoyn/study/service/app/src/debug/jniLibs"/></dataSet></merger>

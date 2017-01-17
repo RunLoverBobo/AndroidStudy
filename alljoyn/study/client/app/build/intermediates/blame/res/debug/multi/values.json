@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 50,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 60,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "/home/lionking/Android/AndroidStudy/alljoyn/study/client/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 109,
+                        "endColumn": 56,
+                        "endOffset": 165
+                    }
+                }
+            }
+        ]
+    }
+]

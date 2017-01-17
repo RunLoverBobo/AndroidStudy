@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/lionking/Android/AndroidStudy/alljoyn/study/service/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/lionking/Android/AndroidStudy/alljoyn/study/service/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 51,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,2 +1,2 @@
-include ':app', ':ChartLib'
-project(':ChartLib').projectDir = new File('MPChartLib')
+include ':app', ':MyMPChartLib'
+project(':MyMPChartLib').projectDir = new File('MPChartLib')
